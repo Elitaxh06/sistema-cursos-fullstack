@@ -46,10 +46,10 @@ Este proyecto sigue una arquitectura basada en el patrón **Modelo-Vista-Control
 ## 📁 Estructura del repositorio
 ```bash
 sistema-cursos-fullstack/
-├── frontend/ # Aplicación de React
-├── backend/ # API REST con Node.js + Express
-├── db/ # Scripts SQL Server
-└── README.md # Este archivo
+├── frontend/  # Aplicación de React
+├── backend/   # API REST con Node.js + Express
+├── db/        # Scripts SQL Server
+└── README.md  # Este archivo
 ```
 
 ---
