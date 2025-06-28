@@ -8,8 +8,8 @@ export const dbSettings = {
     server: config.dbServer,
     database: config.dbDatabase,
     options: {
-        encrypt: true, // for azure
-        trustServerCertificate: true // change to true for local dev / self-signed certs
+        encrypt: true,
+        trustServerCertificate: true 
     }
 }
 

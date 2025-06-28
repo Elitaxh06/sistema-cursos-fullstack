@@ -14,7 +14,7 @@ function RoutesPages() {
             <Route path="/editarCurso" element={<EditarCurso /> } />
 
 
-            
+          
             <Route path="/*" element={<Error404 />} />
         </Routes>
       </BrowserRouter>

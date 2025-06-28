@@ -86,12 +86,12 @@ npm install
 npm run start
 ```
 ⚠️ Recordá configurar tu conexión en un archivo .env:
-env
-PORT = 3005
-DB_SERVER=localhost  
-DB_USER=tu_usuario  
-DB_PASSWORD=tu_contraseña  
-DB_DATABASE=nombre_de_tu_bd
+- env
+- PORT = 3005
+- DB_SERVER=localhost  
+- DB_USER=tu_usuario  
+- DB_PASSWORD=tu_contraseña  
+- DB_DATABASE=nombre_de_tu_bd
 
 ### 4. Frontend (React)
 ```bash
