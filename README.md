@@ -60,12 +60,12 @@ Podés usar cualquiera de los siguientes comandos, según cómo tengas configura
 
 **Con SSH**
 ```bash
-git clone git@github.com:Elitaxh06/react-starter-setup.git
+git clone git@github.com:Elitaxh06/sistema-cursos-fullstack.git
 ```
 
 **Con HTTPS**
 ```bash
-git clone https://github.com/Elitaxh06/react-starter-setup.git
+git clone https://github.com/Elitaxh06/sistema-cursos-fullstack.git
 ```
 ## Configurar la base de datos (SQL Server)
 ### 1. Abrí SQL Server Management Studio (SSMS).
