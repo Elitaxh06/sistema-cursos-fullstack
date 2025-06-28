@@ -114,15 +114,15 @@ Manejar estado global con React y Redux para una mejor experiencia de usuario
 ### Hola, soy Esteban Pizarro, desarrollador web junior con enfoque en frontend y conocimientos en backend.
 Siempre estoy aprendiendo cosas nuevas y busco oportunidades para aplicar y crecer profesionalmente.
 
-### 🌐 Portafolio: https://elitaxh.dev 
+### 🌐 Portafolio: https://elitaxh06.github.io/tebPortfolio/
 ### 📫 Contacto: https://www.linkedin.com/in/esteban-pizarro-5897362a9/ 
 
 ---
 ## 📸 Capturas
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![Pagina Principal](/images/image.png)
+![formulario agregar curso](/images/image-1.png)
+![formulario editar curso](/images/image-2.png)
 
 ---
 ## 📄 Licencia
