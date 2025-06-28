@@ -36,19 +36,21 @@ Este proyecto sigue una arquitectura basada en el patrón **Modelo-Vista-Control
 
 
 ## 🛠️ Estado del proyecto
-✔️ Funcionalidad completa local
-🚧 Despliegue pendiente (por ser base en SQL Server local)
-📦 Proyecto organizado y funcional para revisar código o probar local
-🎨 El diseño del frontend está enfocado en la funcionalidad. No es completamente responsive ni centrado en el aspecto visual.
+- ✔️ Funcionalidad completa local
+- 🚧 Despliegue pendiente (por ser base en SQL Server local)
+- 📦 Proyecto organizado y funcional para revisar código o probar local
+- 🎨 El diseño del frontend está enfocado en la funcionalidad. No es completamente responsive ni centrado en el aspecto visual.
 
 ---
 
 ## 📁 Estructura del repositorio
+```bash
 sistema-cursos-fullstack/
 ├── frontend/ # Aplicación de React
 ├── backend/ # API REST con Node.js + Express
 ├── db/ # Scripts SQL Server
 └── README.md # Este archivo
+```
 
 ---
 
